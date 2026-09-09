@@ -1,0 +1,8 @@
+lien Edge Impulse:
+https://studio.edgeimpulse.com/studio/1028443
+
+
+
+
+lien ThinkSpeak:
+https://thingspeak.mathworks.com/channels/3409347

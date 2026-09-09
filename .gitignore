@@ -1,0 +1,39 @@
+# ========== FICHIERS SENSIBLES ==========
+config.h
+*.env
+*.secret
+
+# ========== ARDUINO / PLATFORMIO ==========
+*.ino.precompiled
+*.ino.d
+*.a
+*.o
+*.elf
+*.bin
+*.hex
+build/
+.pio/
+platformio.ini
+.vscode/
+.idea/
+
+# ========== FICHIERS TEMPORAIRES ==========
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.bak
+
+# ========== COMPILATION ==========
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ========== EDGE IMPULSE ==========
+*.eimodel
+*.tflite
+model/
